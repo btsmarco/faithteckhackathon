@@ -137,5 +137,4 @@ legend, button::-moz-focus-inner, input::-moz-focus-inner {
   margin: 0 auto; }
 
 body {
-  background-color: darkcyan;
-  font-size: 12px; }
+  background: darkcyan; }
